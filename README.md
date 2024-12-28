@@ -48,5 +48,6 @@ Simple yet effective UI
 ![bar_graph](/Screenshots/bar_graph.png)
 
 ## Word Cloud
+visual representation of text data where the most frequently occurring words are displayed in larger, bolder fonts, while less frequent words appear smaller. This visualization technique helps to quickly identify the most prominent terms in a dataset or document, providing a sense of the key topics or themes.
 ![word_cloud](/Screenshots/word_cloud.png)
 
