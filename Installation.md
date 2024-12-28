@@ -7,12 +7,13 @@ Ensure that you have Python 3.x installed.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Sentimix-Tweet-Analyzer.git
-Navigate into the project directory:
+   
+# Navigate into the project directory:
 
-bash
-cd Sentimix-Tweet-Analyzer
-Install the required Python dependencies:
+   ```bash
+      cd Sentimix-Tweet-Analyzer
 
+# Install the required Python dependencies:
 bash
 pip install -r requirements.txt
 You will need Twitter API credentials (API Key, API Secret Key, Access Token, Access Token Secret). Follow these steps to get your credentials:
