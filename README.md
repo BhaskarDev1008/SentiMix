@@ -35,10 +35,6 @@ The project requires the following libraries:
 
 You can install the necessary libraries with:
 ```bash
-pip install -r requirements.txt
-
----
+`pip install -r requirements.txt`
 
 ## Screenshots
-
-![user Input](SentiMix/Screenshots/Screenshot (315).png)
