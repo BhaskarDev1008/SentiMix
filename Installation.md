@@ -10,7 +10,7 @@ Ensure that you have Python 3.x installed.
    
 ### Navigate into the project directory:
 ```bash
-cd Sentimix-Tweet-Analyzer```
+ cd Sentimix-Tweet-Analyzer ```
 
 # Install the required Python dependencies:
 bash
