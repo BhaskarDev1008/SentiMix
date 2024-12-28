@@ -14,4 +14,4 @@ We love open-source contributions! Please follow these steps to contribute:
 Please follow the [Code of Conduct](https://opensource.guide/code-of-conduct/) when contributing to this project.
 
 ## Issues
-- If you find any bugs, please open an issue using the [Issue Tracker](https://github.com/BhaskarDev108/Sentimix-Tweet-Analyzer/issues).
+- If you find any bugs, please open an issue or mail us to 1008Devv@gmail.com .
