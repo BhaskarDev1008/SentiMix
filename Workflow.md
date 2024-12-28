@@ -1,5 +1,5 @@
 **1. Data Collection**
-Enter a keyword in the GUI to fetch 25 recent tweets.
+Enter a keyword in the GUI to fetch recent tweets.
 Tweets are saved to a CSV file for further analysis.
 
 **2. Data Labeling**
