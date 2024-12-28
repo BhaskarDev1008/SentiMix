@@ -25,8 +25,15 @@
 ---
 
 ## Requirements
-Install the required libraries using:
+The project requires the following libraries:
+- `tweepy`
+- `vaderSentiment`
+- `pandas`
+- `matplotlib`
+- `wordcloud`
+- `tkinter` (pre-installed with Python)
+
+You can install the necessary libraries with:
 ```bash
 pip install -r requirements.txt
-
 
