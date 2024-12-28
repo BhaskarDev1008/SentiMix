@@ -1,0 +1,14 @@
+Clone the Repository
+bash
+Copy code
+git clone https://github.com/your-username/Sentimix-Tweet-Analyzer.git
+Navigate to the Project Folder
+bash
+Copy code
+cd Sentimix-Tweet-Analyzer
+Run the Application
+Launch the GUI application:
+
+bash
+Copy code
+python tweet_fetch_gui_with_visualizations.py
