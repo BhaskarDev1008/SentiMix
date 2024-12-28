@@ -37,5 +37,5 @@ You can install the necessary libraries with:
 ```pip install -r requirements.txt```
 
 ## Screenshots
-![user Input](SentiMix/Screenshots/Screenshot (315).png)
+![user Input](Screenshots/Screenshot (315).png)
 
