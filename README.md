@@ -34,7 +34,8 @@ The project requires the following libraries:
 - `tkinter` (pre-installed with Python)
 
 You can install the necessary libraries with:
-```bash
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 ## Screenshots
+![user Input](SentiMix/Screenshots/Screenshot (315).png)
+
