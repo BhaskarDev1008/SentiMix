@@ -10,9 +10,9 @@ Ensure that you have Python 3.x installed.
    
 ### Navigate into the project directory:
 ```bash
- cd Sentimix-Tweet-Analyzer ```
+ cd Sentimix-Tweet-Analyzer
 
-# Install the required Python dependencies:
+**Install the required Python dependencies:**
 bash
 pip install -r requirements.txt
 You will need Twitter API credentials (API Key, API Secret Key, Access Token, Access Token Secret). Follow these steps to get your credentials:
