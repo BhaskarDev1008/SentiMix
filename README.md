@@ -43,3 +43,5 @@ Bar Graph: Counts the number of tweets in each category.
 Word Cloud: Highlights frequently used words in the tweets.
 **4. Output
 A labeled dataset (sentimix_tweets_with_vader_numeric.csv) with sentiment categories.
+
+---
