@@ -37,10 +37,16 @@ You can install the necessary libraries with:
 ```pip install -r requirements.txt```
 
 ## Screenshots
-**User Input** Simple yet effective UI
+## User Input
+Simple yet effective UI  
 ![user Input](/Screenshots/user_input.png)
 
-**Pie Chart representation **
+## Pie Chart Representation
 ![pie_chart](/Screenshots/pie_chart.png)
+
+## Bar Graph
 ![bar_graph](/Screenshots/bar_graph.png)
+
+## Word Cloud
 ![word_cloud](/Screenshots/word_cloud.png)
+
