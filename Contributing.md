@@ -1,7 +1,17 @@
+# Contributing to Sentimix
 
-### Conclusion:
-- **`README.md`** should contain a brief introduction, installation steps, and the most crucial details.
-- **`INSTALLATION.md`** is optional and can be used if you need to break down installation steps further.
-- **`USAGE.md`** can be used for detailed usage instructions.
+We love open-source contributions! Please follow these steps to contribute:
 
-This way, you can keep your repository clean and organized while giving users an easy way to find detailed information about setup and usage.
+## How to Contribute
+1. Fork this repository.
+2. Clone your forked repository to your local machine.
+3. Create a new branch: `git checkout -b feature-branch`.
+4. Make your changes and commit them: `git commit -am 'Add new feature'`.
+5. Push to your branch: `git push origin feature-branch`.
+6. Create a Pull Request.
+
+## Code of Conduct
+Please follow the [Code of Conduct](https://opensource.guide/code-of-conduct/) when contributing to this project.
+
+## Issues
+- If you find any bugs, please open an issue using the [Issue Tracker](https://github.com/BhaskarDev108/Sentimix-Tweet-Analyzer/issues).
