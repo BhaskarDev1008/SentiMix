@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 # Set up your Twitter API credentials
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAACcmxwEAAAAAnK2s2VsdMOU%2B3uznFAi7ADbXOwo%3D5uAfJ9VK2riyUvAcCFKFfQAYAmWHnLt1ZlZqLbYEL8JXNFkBID'
+bearer_token = 'Enter_your_bearer_token'
 
 # Authenticate with Twitter API
 client = tweepy.Client(bearer_token=bearer_token)
